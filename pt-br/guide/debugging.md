@@ -122,7 +122,7 @@ $ DEBUG=http,mail,express:* node index.js
 
 When running through Node.js, you can set a few environment variables that will change the behavior of the debug logging:
 
-| Name                | Purpose                                                           |
+| Nome                | Objetivo                                                          |
 | ------------------- | ----------------------------------------------------------------- |
 | `DEBUG`             | Enables/disables specific debugging namespaces.   |
 | `DEBUG_COLORS`      | Whether or not to use colors in the debug output. |

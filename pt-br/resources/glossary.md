@@ -53,7 +53,7 @@ linguagem de script, e alcança rendimentos altos através de E/S não
 bloqueante e um loop de eventos de thread única. Consulte [nodejs.org](http://nodejs.org/). **Nota
 de uso**: Inicialmente, "Node.js," posteriormente "Node".
 
-### open-source, open source
+### código aberto, código aberto
 
 Quando usado como adjetivo, colocar o hífen; por exemplo "Este
 é um software open-source". Consulte

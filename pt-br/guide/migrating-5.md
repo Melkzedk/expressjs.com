@@ -72,7 +72,7 @@ You can find the list of available codemods [here](https://github.com/expressjs/
 **Melhorias**
 
 <ul class="doclist">
-  <li><a href="#path-syntax">Path route matching syntax</a></li>
+  <li><a href="#path-syntax">Rota correspondente à sintaxe</a></li>
   <li><a href="#rejected-promises">Rejected promises handled from middleware and handlers</a></li>
   <li><a href="#express.urlencoded">express.urlencoded</a></li>
   <li><a href="#express.static.dotfiles">express.static dotfiles</a></li>
@@ -111,7 +111,7 @@ palavra-chave reservada no JavaScript. Entretanto, a partir do ECMAScript 6,
 legalmente ser usadas como nomes de propriedades.
 
 {% capture codemod-deprecated-signatures %}
-You can replace the deprecated signatures with the following command:
+Você pode substituir as assinaturas obsoletas pelo seguinte comando:
 
 ```plain-text
 npx @expressjs/codemod v4-deprecated-signatures
